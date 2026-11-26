@@ -1,4 +1,4 @@
-# Nearsighted — One Word for Your Wi-Fi
+# Allegedly — One Word for Your Wi-Fi
 
 [![make.fun](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
 [![rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/museshiro/one-word-wifi-20261125/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
@@ -8,9 +8,9 @@ One word describing my Wi-Fi, entered in the [One Word for Your Wi-Fi bounty](ht
 
 ## The word
 
-**nearsighted**
+**Allegedly**
 
-My router can see the living room just fine. The hallway? The bedroom? It squints, guesses, and gives up. A device built to reach the whole house that cannot see past one wall — that is not a network, that is a pair of eyes that needs glasses.
+My Wi-Fi allegedly works. That is the whole joke — and the whole truth. The network name is its own disclaimer: a connection that is a claim, not a guarantee. A neighbour scanning the Wi-Fi list reads "Allegedly" and knows exactly what kind of network it is before even connecting.
 
 ## How it works
 
